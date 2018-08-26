@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: |cff008000GuildMate|r
+## Author: Hylas
+## Notes: Tracking the progress of guild members.
+## SavedVariablesPerCharacter:  GuildMateConfig
+## SavedVariables: GuildMate_Configs, GuildMate_Globals
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+## Version: 8.0.1.0
+
+embeds.xml
+
+GuildMate.lua
